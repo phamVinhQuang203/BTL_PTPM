@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DataAccessLayer": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true
+    }
+  }
+}
